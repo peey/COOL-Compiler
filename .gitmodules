@@ -1,0 +1,6 @@
+[submodule "PA4-CodeGen"]
+	path = PA4-CodeGen
+	url = https://github.com/peey/CMP-codegen
+[submodule "PA3-SemanticAnalyzer"]
+	path = PA3-SemanticAnalyzer
+	url = https://github.com/peey/COOL-SemanticAnalyzer
